@@ -1,0 +1,21 @@
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\bin\Debug\BINAES.exe.config
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\bin\Debug\BINAES.exe
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\bin\Debug\BINAES.pdb
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.csproj.AssemblyReference.cache
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.csproj.SuggestedBindingRedirects.cache
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.Properties.Resources.resources
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.csproj.GenerateResource.cache
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.exe
+C:\Users\alejo\Documents\UNIVERSIDAD\Programacion Orientada a Objetos\Labo 5\cp5-AlejoValle\BINAES\BINAES\obj\Debug\BINAES.pdb
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\bin\Debug\BINAES.exe.config
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\bin\Debug\BINAES.exe
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\bin\Debug\BINAES.pdb
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.csproj.AssemblyReference.cache
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.csproj.SuggestedBindingRedirects.cache
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.frmPrincipal.resources
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.Properties.Resources.resources
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.csproj.GenerateResource.cache
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.csproj.CoreCompileInputs.cache
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.exe
+C:\Users\alejo\Desktop\BINAES\BINAES\BINAES\obj\Debug\BINAES.pdb
